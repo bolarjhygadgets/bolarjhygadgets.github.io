@@ -308,7 +308,7 @@ footer {
 }
 
 .navbar-toggler-icon {
-    background-image: url('navigation-icon.svg');
+    background-image: url("navigation-icon.svg");
 }
 
 .bg-dark {
