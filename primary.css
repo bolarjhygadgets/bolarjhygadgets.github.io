@@ -3,7 +3,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("../assets/MavenPro.woff2") format('woff2');
+    src: url("asset/gadgets..") format('woff2');
 }
 
 * {
@@ -286,7 +286,7 @@ footer {
 }
 
 .card-body {
-    padding: 5%;
+    padding: %;
 }
 
 .scrolled-up-tr {
@@ -447,4 +447,9 @@ input:-webkit-autofill:active {
 .btn {
     border-radius: 50px;
     transition: all 1s ease;
+}
+
+
+.text-service{
+     text-align: left;
 }
