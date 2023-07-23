@@ -166,7 +166,7 @@ footer {
 }
 
  #qwe {
-    background-image: url("../hamburger.svg");
+    background-image: url("navigation-icon.svg");
     background-size: 100%;
     background-position: center center;
     width: 20px;
@@ -308,7 +308,7 @@ footer {
 }
 
 .navbar-toggler-icon {
-    background-image: url('../hamburger.svg');
+    background-image: url('navigation-icon.svg');
 }
 
 .bg-dark {
